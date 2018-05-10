@@ -1,0 +1,16 @@
+{
+	"ServiceDetails": {
+		"EngineDetails": {
+			"EngModel": "Tier 4 Interim Ecomax ",
+			"LowIdleRPM": 1500,
+			"HighIdleRPM": 2500,
+			"FullLoadRPM": 8000
+		},
+		"LastServiceDetails": {
+			"DateTime": "1/19/2018",
+			"CustomerComplaint": "None"
+		}
+
+
+	}
+}

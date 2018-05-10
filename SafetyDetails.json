@@ -1,0 +1,14 @@
+{
+	"safety": {
+		"OPERATION_SAFETY": [
+			"This machine is not insulated and does not provide protection from contact or being near electrical current",
+			"NEVER operate the telehandler in an area where overhead power lines, overhead or underground cables, or other power sources may exist without ensuring the appropriate power or utility company de - energizes the lines.",
+			"Always check for power lines before raising the boom"
+		]
+	},
+	"SAFETY_DECALS": [
+		"Ensure all DANGER, WARNING, CAUTION and instructional decals and proper capacity charts are legible and in place. Clean and replace as required.",
+		"DO NOT exceed rated lift capacity."
+	]
+
+}
